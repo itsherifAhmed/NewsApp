@@ -13,7 +13,8 @@ News App with NewsApi & GetX [MVC pattern]
 
 News App with NewsApi & GetX [MVC pattern]
 
-##Benefit
+## Benfit
+
 - [x] [GetX]
 - [x] MVC patterns
 - [x] News Home page
